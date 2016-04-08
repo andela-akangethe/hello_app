@@ -1,4 +1,4 @@
-== README [hosted at](https://lexville-rails-tutorial-hello.herokuapp.com/)
+== README (https://lexville-rails-tutorial-hello.herokuapp.com/)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
